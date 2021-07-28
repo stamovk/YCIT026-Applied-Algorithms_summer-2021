@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="helloWorld.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="helloWorld.js" working-dir="$PROJECT_DIR$">
+  <configuration default="false" name="helloWorld.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Class 1/helloWorld.js" working-dir="$PROJECT_DIR$">
     <method v="2" />
   </configuration>
 </component>
